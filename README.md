@@ -28,7 +28,7 @@
 
 **The Impact:** Built a 3-page interactive dashboard tracking $3.48M in revenue across 2,705 orders — revealing that Chocolate Truffle drives 22.4% of total revenue, Warehouse AXW291 handles 46.8% of all sales, and the West region leads at $1.11M vs the Northeast at $0.47M
 
-[View the Dashboard](https://drive.google.com/file/d/1Sv0UkBS--PqW4_jSSewT28RIuN4uIjPw/view?usp=drive_link) | [View the Project](https://github.com/odunolaeunice/Order-Sales-Performance-Dashboard)
+[View the Dashboard](https://drive.google.com/file/d/1Sv0UkBS--PqW4_jSSewT28RIuN4uIjPw/view?usp=sharing) | [View the Project](https://github.com/odunolaeunice/Order-Sales-Performance-Dashboard)
 
 ---
 
@@ -63,4 +63,4 @@
 
 **The Impact:** Analysed 369 survey responses and revealed that 40.67% of data professionals intend to switch careers — a critical workforce retention signal — while confirming Python and SQL as the most in-demand skills across all industries
 
-[View the Dashboard](https://drive.google.com/file/d/142yrUMbMhP35n2vEg24_G_sK_Z2GKDIT/view?usp=sharing) | [View the Project](https://github.com/odunolaeunice)
+[View the Dashboard]([https://drive.google.com/file/d/142yrUMbMhP35n2vEg24_G_sK_Z2GKDIT/view?usp=sharing](https://drive.google.com/file/d/142yrUMbMhP35n2vEg24_G_sK_Z2GKDIT/view?usp=sharing)) | [View the Project](https://github.com/odunolaeunice)
